@@ -26,6 +26,35 @@ Shoppyx is a full-stack e-commerce web application built using the MERN stack. I
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/57181c94-1dd8-473b-9b13-98eba0bd2643" />
+
+
+### 🛒 Cart Page
+
+<img width="1905" height="925" alt="image" src="https://github.com/user-attachments/assets/a2ca4135-1712-4c8e-a10b-2a10c81e647a" />
+
+
+### 📦 Orders Page
+
+<img width="1906" height="812" alt="image" src="https://github.com/user-attachments/assets/60462055-02c3-4faa-aea1-5acebddebe4b" />
+
+
+### 🛍️ Seller Dashboard
+
+<img width="1918" height="919" alt="image" src="https://github.com/user-attachments/assets/db04af8a-e4d1-4a0f-b2ed-d4acb3c89c29" />
+
+
+### 👤 Profile Page
+
+<img width="1911" height="822" alt="image" src="https://github.com/user-attachments/assets/1ff63a89-f362-4904-bbf5-5dfdcf1e2f6a" />
+
+
+---
+
 ## 🧑‍💻 Tech Stack
 
 ### Frontend
@@ -39,7 +68,7 @@ Shoppyx is a full-stack e-commerce web application built using the MERN stack. I
 
 * Node.js
 * Express.js
-* MongoDB 
+* MongoDB
 
 ---
 
@@ -174,8 +203,10 @@ Seller dashboard includes:
 
 **Vijaya Joshi**
 BTech CSE (Cyber Security & Digital Forensics)
+
 **Sambhav Mani Jha**
 BTech CSE (Cyber Security & Digital Forensics)
+
 ---
 
 ## ⭐ Acknowledgements
