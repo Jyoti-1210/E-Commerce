@@ -30,7 +30,8 @@ Shoppyx is a full-stack e-commerce web application built using the MERN stack. I
 
 ### 🏠 Home Page
 
-<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/57181c94-1dd8-473b-9b13-98eba0bd2643" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/66bd8c52-9301-421d-adda-80caa6145cc3" />
+
 
 
 ### 🛒 Cart Page
